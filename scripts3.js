@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 label: 'bicicleta',
                 data: [6, 4, 7, 5, 18, 20, 22, 19, 23, 25, 28, 30, 29, 31, 35, 36, 38, 40, 42, 41, 43, 45, 47, 49, 48, 50, 52, 54, 55, 57],
-                borderColor: 'green',
+                borderColor: 'red',
                 borderWidth: 1,
                 fill: false
             },
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function () {
             {
                 label: 'Eficiência (%)',
                 data: [70, 80, 76, 81, 92],
-                backgroundColor: 'yellow',
+                backgroundColor: 'blue',
                 borderColor: 'blue',
                 borderWidth: 1
             }
